@@ -8,9 +8,9 @@ This code is a program that uses tkinter to detect keyboard events, counting the
 
 The libraries you need to install are tkinter and keyboard. tkinter is a default library in Python, so you don't need to install it separately. However, the keyboard library needs to be installed separately. The keyboard library can be installed with pip. You can install it using the command below
 
-"""
+ ``` 
 pip install keyboard
-"""
+ ``` 
 
 Note that this code requires Python version 3.x to run, and you may need to run the program as administrator to detect keyboard events. Also, additional settings may be required depending on the operating system you run the code on to accurately detect keyboard events.
 
